@@ -1,0 +1,13 @@
+C:\Users\КуприенкоВ\source\repos\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe.config
+C:\Users\КуприенкоВ\source\repos\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe
+C:\Users\КуприенкоВ\source\repos\HomeWork2\HomeWork2\bin\Debug\HomeWork2.pdb
+C:\Users\КуприенкоВ\source\repos\HomeWork2\HomeWork2\bin\Debug\EntityFramework.dll
+C:\Users\КуприенкоВ\source\repos\HomeWork2\HomeWork2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\КуприенкоВ\source\repos\HomeWork2\HomeWork2\bin\Debug\EntityFramework.xml
+C:\Users\КуприенкоВ\source\repos\HomeWork2\HomeWork2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\КуприенкоВ\source\repos\HomeWork2\HomeWork2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\КуприенкоВ\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csprojAssemblyReference.cache
+C:\Users\КуприенкоВ\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\КуприенкоВ\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.CopyComplete
+C:\Users\КуприенкоВ\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
+C:\Users\КуприенкоВ\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb
